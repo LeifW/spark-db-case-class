@@ -1,0 +1,3 @@
+package sparkdatabase
+
+package object generic extends SparkDatabaseGenericDerivation
